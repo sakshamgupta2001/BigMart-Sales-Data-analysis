@@ -1,1 +1,2 @@
-# BigMart-Sales-Data-analysis
+Bigmart sales data analysis
+Welcome to the BigMart Sales Data Analysis Project! This repository contains a comprehensive analysis of the BigMart sales data using Python. The project aims to uncover valuable insights that can help improve sales strategies and optimize product placements in BigMart stores. The objective of this project is to analyze sales data from various BigMart stores to identify key factors that affect product sales. The analysis includes data preprocessing, exploratory data analysis (EDA), feature engineering, and building predictive models.
